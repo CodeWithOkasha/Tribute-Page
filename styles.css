@@ -1,0 +1,10 @@
+span{
+  color:blue;
+}
+#image{
+  display: block;        /* Requirement #1 */
+  max-width: 100%;       /* Requirement #2 */
+  height: auto;          /* Keeps image aspect ratio */
+  margin: 0 auto;        /* Requirement #3: Center image horizontally */
+}
+
