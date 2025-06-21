@@ -24,7 +24,6 @@ This tribute page is built to honor a notable personality, using clean semantic 
 - Structuring a layout using HTML5
 - Styling with CSS3 including typography and spacing
 - Making a visually pleasing responsive design
-- Hosting and deploying with GitHub Pages
 
 ---
 
@@ -33,7 +32,4 @@ This tribute page is built to honor a notable personality, using clean semantic 
 - HTML5
 - CSS3
 
----
-
-## 📂 Folder Structure
 
